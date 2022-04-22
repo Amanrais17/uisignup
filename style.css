@@ -620,7 +620,7 @@ hr{
   bottom: 0;
 }
 }
-@media (max-width: 360px) {
+@media (max-width: 600px) {
 .background {
     width: 147px;
     height: 643px;
